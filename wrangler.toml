@@ -4,7 +4,7 @@ pages_build_output_dir = "dist"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "smmpanel"
+database_name = "webdownloadandstore"
 database_id = "8854cd69-aa83-4b05-8c28-ac62e269eb00"
 
 [vars]
