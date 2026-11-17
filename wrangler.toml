@@ -1,0 +1,12 @@
+name = "smmpanel"
+compatibility_date = "2024-04-03"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "smmpanel"
+database_id = "8854cd69-aa83-4b05-8c28-ac62e269eb00"
+
+[vars]
+CS_WHATSAPP_NUMBER = "628815722784"
+OFFICIAL_WA_CHANNEL = "https://whatsapp.com/channel/0029VbE5A9VBPzjScJYKA50E"
